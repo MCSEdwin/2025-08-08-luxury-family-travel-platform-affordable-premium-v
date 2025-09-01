@@ -1,0 +1,27 @@
+{
+  "name": "2025-08-08-luxury-family-travel-platform-affordable-premium-v",
+  "version": "1.0.0",
+  "description": "Luxury Family Travel Platform: Affordable Premium Vacations with Curated Experiences",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --live"
+  },
+  "keywords": [
+    "ai-generated",
+    "landing-page",
+    "idea2mvp",
+    "azure-openai",
+    "travel-&-hospitality"
+  ],
+  "author": "Idea2MVP AI System",
+  "license": "MIT",
+  "homepage": "https://dailyidea.AIFirstPartner.com/daily-ideas/2025-08-08/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCSEdwin/2025-08-08-luxury-family-travel-platform-affordable-premium-v.git"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
